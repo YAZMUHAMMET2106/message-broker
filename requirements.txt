@@ -1,0 +1,10 @@
+# No external dependencies required!
+# The project uses only Python standard library:
+#   - socket     (TCP networking)
+#   - sqlite3    (persistence)
+#   - threading  (concurrency)
+#   - json       (protocol)
+#   - logging    (structured logs)
+
+# For running tests:
+# pip install pytest   (optional, unittest works without it)

@@ -1,0 +1,7 @@
+2026-05-11 04:12:26,013 [INFO] main: Starting Message Broker
+2026-05-11 04:12:26,013 [INFO] main: Host=127.0.0.1  Port=9999  DB=broker.db
+2026-05-11 04:12:26,021 [INFO] database.db: Database initialized: broker.db
+2026-05-11 04:12:26,021 [INFO] broker.delivery: ACK watcher started
+2026-05-11 04:12:26,021 [INFO] broker.delivery: DeliveryGuarantor started
+2026-05-11 04:12:26,021 [INFO] broker.server: Broker listening on 127.0.0.1:9999
+2026-05-11 04:12:26,021 [INFO] broker.server: Dispatcher started
